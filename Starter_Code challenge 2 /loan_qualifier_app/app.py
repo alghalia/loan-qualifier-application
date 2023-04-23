@@ -11,7 +11,10 @@ import fire
 import questionary
 from pathlib import Path
 
-from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import (
+    load_csv,
+    save_csv
+)
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -110,11 +113,40 @@ def save_qualifying_loans(qualifying_loans):
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
+def save_qualifying_loans(qualifying_loans):
+    """Saves the qualifying loans to a CSV file.
+        Requires confirmation before saving the file
+        Provides instructions for the file naming convention
+        Includes logic to avoid empty filenames
+        
+    Args:
+        qualifying_loans (list of lists): The qualifying bank loans.
+    """
+    #Ask if the user wants to save the file
+    question = questionary.confirm("Do you want to save the new csvfile ?").ask()
 
+    if question == False:
+        print("")
+        print("Thank you for using the APP")
+        quit()
+    else:
+        # Enter the new file name 
+        name = questionary.text("Enter the new file name").ask()
+
+        if name == "":
+            print("")
+            print("please enter the file name")
+            print("")
+            save_qualifying_loans(qualifying_loans)
+        if len(qualifying_loans) == 0:
+            output_path = Path(f"Starter_Code challenge 2 /loan_qualifier_app/results/unqualified_loans/{name.lower()}")
+            save_csv(output_path, qualifying_loans)
+        else:
+            output_path = Path(f"Starter_Code challenge 2 /loan_qualifier_app/results/qualifed_loans/{name.lower()}")
+            save_csv(output_path, qualifying_loans)
 
 def run():
     """The main function for running the script."""
-
     # Load the latest Bank data
     bank_data = load_bank_data()
 

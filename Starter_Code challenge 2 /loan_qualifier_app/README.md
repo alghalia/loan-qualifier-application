@@ -1,33 +1,54 @@
-# Project Title
+ Loan Qualifier App
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
-
+This project is a loan qualifier application that helps the user to get a list of qualified loans based on the user financial information provided.
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+ Python
+ Install pip - package installer for Python 
 
 ---
-
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+ Install python packages
+ pip install fire
+ pip install questionary
 
----
 
 ## Usage
+This project is a loan qualifier application that helps the user to get a list of qualified loans based on the user financial information provided.its also asks the user to save the qualifing loan as new CSV file.
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+
+Below are some screenshoots
+
+** Enter name - Force to enter a name **
+
+t![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Desktop/challange%202%20images/force_to_enter_name.png?version%3D1682290022708)he App**
+
+** User enter no and exit 
+
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Desktop/challange%202%20images/
+exit_dont_save_image.png?version%3D1682289861281)
+
+**Qualified loans saved in qualified_loans folder**
+
+
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Desktop/challange%202%20images/qualifed_loans_image.png?version%3D1682290426867)
+
+**Unqualified loans saves in the unqualified_loans foldrer**
+
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Desktop/challange%202%20images/unqualified_loan_image.png?version%3D1682289783519)
+
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Alghalia Alsammak 
+galsammak@gmail.com
 
 ---
 
 ## License
-
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+CU
