@@ -6,12 +6,14 @@ This project is a loan qualifier application that helps the user to get a list o
 ## Technologies
 
  Python
+
  Install pip - package installer for Python 
 
 ---
 ## Installation Guide
 
  Install python packages
+
  pip install fire
  pip install questionary
 
@@ -24,24 +26,20 @@ Below are some screenshoots
 
 ** Enter name - Force to enter a name **
 
-t![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Desktop/challange%202%20images/force_to_enter_name.png?version%3D1682290022708)he App**
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/force_to%20_enter%20_filename.image.png?version%3D1682291651169)
 
-** User enter no and exit 
+** User enter no and exit the App**
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Desktop/challange%202%20images/
-exit_dont_save_image.png?version%3D1682289861281)
+
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/exit_dont_save_image.png?version%3D1682291694631)
 
 **Qualified loans saved in qualified_loans folder**
 
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/qualifed_loans_image.png?version%3D1682291755636)
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Desktop/challange%202%20images/qualifed_loans_image.png?version%3D1682290426867)
+***Unqualified loans saves in the unqualified_loans foldrer**
 
-**Unqualified loans saves in the unqualified_loans foldrer**
-
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Desktop/challange%202%20images/unqualified_loan_image.png?version%3D1682289783519)
-
-
----
+---![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/unqualified_loan_image.png?version%3D1682291809709)
 
 ## Contributors
 
