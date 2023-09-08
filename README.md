@@ -25,13 +25,14 @@ This project is a loan qualifier application that helps the user to get a list o
 
 Below are some screenshots
 
-** Enter name - Force to enter a name **
-![Screenshot](https://github.com/alghalia/loan-qualifier-application/blob/main/exit_dont_save_image.png)
 
+** Enter name - Force to enter a name **
+
+![Screenshot](https://github.com/alghalia/loan-qualifier-application/blob/main/force_to%20_enter%20_filename.image.png)
 
 ** User enters no and exits the App**
 
-
+![Screenshot](https://github.com/alghalia/loan-qualifier-application/blob/main/exit_dont_save_image.png)
 
 **Qualified loans saved in qualified_loans folder**
 
