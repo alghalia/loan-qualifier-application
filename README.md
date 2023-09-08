@@ -36,10 +36,11 @@ Below are some screenshots
 
 **Qualified loans saved in qualified_loans folder**
 
+![Screenshot](https://github.com/alghalia/loan-qualifier-application/blob/main/qualifed_loans_image.png)
 
 ***Unqualified loans saved in the unqualified_loans folder**
 
-
+!
 ## Contributors
 
 Alghalia Alsammak 
