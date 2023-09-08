@@ -23,20 +23,20 @@ This project is a loan qualifier application that helps the user get a list of q
 
 
 Below are some screenshots
-
 ** Enter name - Force to enter a name **
-![Screenshot](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/force_to%20_enter%20_filename.image.png?version%3D1682291651169)
 
-** User enters no and exits the App **
+![Screenshot](https://github.com/alghalia/loan-qualifier-application/blob/main/force_to%20_enter%20_filename.image.png)
 
-![Screenshot](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/exit_dont_save_image.png)
+** User enters no and exits the App**
+
+![Screenshot](https://github.com/alghalia/loan-qualifier-application/blob/main/exit_dont_save_image.png)
 
 **Qualified loans saved in qualified_loans folder**
-![Screenshot](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/qualifed_loans_image.png?version%3D1682291755636)
+
+![Screenshot](https://github.com/alghalia/loan-qualifier-application/blob/main/qualifed_loans_image.png)
 
 ***Unqualified loans saved in the unqualified_loans folder**
-
-![Screenshot](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/unqualified_loan_image.png?version%3D1682291809709)
+![Screenshot](https://github.com/alghalia/loan-qualifier-application/blob/main/unqualified_loan_image.png)
 
 ## Contributors
 
