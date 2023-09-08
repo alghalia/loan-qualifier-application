@@ -30,3 +30,26 @@ Below are some screenshots
 ![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/force_to%20_enter%20_filename.image.png?version%3D1682291651169)
 
 ** User enter no and exit the App**
+
+
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/exit_dont_save_image.png?version%3D1682291694631)
+
+**Qualified loans saved in qualified_loans folder**
+
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/qualifed_loans_image.png?version%3D1682291755636)
+
+***Unqualified loans saves in the unqualified_loans foldrer**
+
+---![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/unqualified_loan_image.png?version%3D1682291809709)
+
+## Contributors
+
+Alghalia Alsammak 
+galsammak@gmail.com
+Below are some screenshots
+
+** Enter name - Force to enter a name **
+
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/macbook/Documents/GitHub/challenge_02/force_to%20_enter%20_filename.image.png?version%3D1682291651169)
+
+** User enter no and exit the App**
