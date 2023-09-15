@@ -1,7 +1,8 @@
 ## About the project 
-Loan Qualifier App
-loan qualifier application is a lending software that will guide fintech lending startups to get a list of qualified loans based on the user financial information provided.
 ---
+
+Loan qualifier application is a lending software that will guide fintech lending startups to get a list of qualified loans based on the user financial information provided.
+
 
 
 ## Technologies
